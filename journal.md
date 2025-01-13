@@ -28,5 +28,5 @@ AI is now starting to impact healthcare, with tools such as an AI that detects h
 To me, the term "brain rot" is something that doesn't seem humourous, however somehow is funny in a weird way. In my opinion, digital media has had a positive impact on my mental well-being, because I get to keep up with the latest news and also be entertained. In regards to technology, I have never heard of the word "slop" before, but "lore" is a word I use commonly when I try to find out some backround information. It is possible to balance meaningful engagement with technology while avoiding brain rot, because algorthims on social media are made to be tweaked to your interests, so if you are not interested in brain rot, you will not see it anywhere. 
 # December 16th, 2024
 Yes
-# January 8th, 2024
+# January 8th, 2025
 I enjoy the flexibility of this class because I am able to work on other classwork and study if necessary. I do not think anything can be improved, except the loudness of the class (which i know is not under your control), and I have no feedback as of now. Looking ahead I'd like to spend more time on learning Python than I did last semester because I did very little, given that I had a lot of work from other classes. 
