@@ -43,3 +43,4 @@ If I were a developer at Tiktok working on a new feauture to increase user priva
 | Bart      | Toyota Corolla | Left Stains on Carpet |
 | Harrison   | Subaru Forester | Left The Oil Cap Off |
 # February 3rd, 2025 
+Computer science plays a critical role in aviation safety with things such as location tracking and alert systems. With the recent mid-air collision over Washington D.C., these factors could have played a critical role. To make sure something like this does not happen again, we could make location of air stuffs more accurance and/or precise, and alert systems more detailed and clear. 
