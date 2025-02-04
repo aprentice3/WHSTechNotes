@@ -36,5 +36,10 @@ The shift in the tech industry towards prioritizing artificial intelligence (AI)
 I think government intervention impacts technology companies and its users in negative ways. For example, with the recent Tiktok ban, there was a lot of backlash because people said the government was taking away their right to free speech, causing stress within the younger generation who is most likely to use the app. As for companies, it may cause them to want to increase user privacy features in fear of getting banned aswell. Addressing security concerns in order to operate globally is something Tiktok has already attempted, however the U.S. Senate would not budge with the ban, so I fear companies like Tiktok may not stand a chance soon when it comes to operating globally. 
 If I were a developer at Tiktok working on a new feauture to increase user privacy, I would suggest having a feature in settings, seperate from Tiktok guidelines, specifically outlining the amount of privancy/security an average American has while using the app, in simple terms that an average 13 year old could understand. This would ensure that no matter the person, those who can use the app have an idea about their privacy and why it is important, as well as providing reassurance to everyone involved. I have learned that this may be a useful feauture in my own projects, as it's similar to an abstract in a scientific paper. 
 # January 27th, 2025 
-
+| Name      | Car | Mistake |
+| ----------- | ----------- | ----------- |
+| Jimmy      | Honda Civic | Drilled Hole in Gas Tank |
+| Kayla   | GMC Sierra | Fixed Wrong Problem |
+| Bart      | Toyota Corolla | Left Stains on Carpet |
+| Harrison   | Subaru Forester | Left The Oil Cap Off |
 # February 3rd, 2025 
