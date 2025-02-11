@@ -44,3 +44,11 @@ If I were a developer at Tiktok working on a new feauture to increase user priva
 | Harrison   | Subaru Forester | Left The Oil Cap Off |
 # February 3rd, 2025 
 Computer science plays a critical role in aviation safety with things such as location tracking and alert systems. With the recent mid-air collision over Washington D.C., these factors could have played a critical role. To make sure something like this does not happen again, we could make location of air stuffs more accurance and/or precise, and alert systems more detailed and clear. 
+# February 11th, 2025 
+| Shape      | Color | Count |
+| ----------- | ----------- | ----------- |
+| Circle      | Green | 7 |
+| Square   | Yellow | 5 |
+| Hexagon      | Brown | 6 |
+| Triangle   | Purple | 4 |
+| Octagon   | Red | 3 |
