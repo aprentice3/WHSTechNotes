@@ -52,3 +52,5 @@ Computer science plays a critical role in aviation safety with things such as lo
 | Hexagon      | Brown | 6 |
 | Triangle   | Purple | 4 |
 | Octagon   | Red | 3 |
+# February 18th, 2025 
+The most interesting thing I learned last week was the composition of blood vessels in my anatomy class. Veins and arteries have three layers, the tunica externa (superficial layer), the tunica media (intermediate layer), and the tunica intima (deep layer). The thickness in these layers are different in veins and arteries. For example, veins have a thick tunica externa and arteries have a thick tunica media. The tunica media have a lot of receptors used to control contraction and dilation in blood vessels, making the arteries' diameter easily manupulated by medicine. 
