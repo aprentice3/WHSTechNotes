@@ -57,3 +57,11 @@ The most interesting thing I learned last week was the composition of blood vess
 # February 24th, 2025 
 Technology can help educators and service providers keep up with the changing language of youth by offering real-time updates on slang. Apps and online platforms could provide meanings and examples of new slang terms. AI chatbots could also help by explaining slang during conversations with students. Additionally, resources like social media and online slang dictionaries can help professionals understand how language is shifting, making it easier to connect with young people. 
 Using slang translation tools in educational apps and AI chatbots has benefits and challenges. These tools can make communication easier and more engaging for students, helping professionals understand the meanings behind certain phrases. However, slang can be tricky and may vary in different contexts, so these tools might not always capture the full meaning. Also, slang's casual nature nature might conflict with the formal tone often needed in professional settings. Thereforem while technology can help, it needs to be used carefully to respect both cultural differences and professionalism. 
+# March 3rd, 2025
+| Name      | Power | Challenge |
+| ----------- | ----------- | ----------- |
+| Zara      | Green | 7 |
+| Aether   | Yellow | 5 |
+| Thorne      | Brown | 6 |
+| Silver   | Purple | 4 |
+| Tangier   | Red | 3 |
