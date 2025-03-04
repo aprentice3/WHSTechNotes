@@ -60,8 +60,8 @@ Using slang translation tools in educational apps and AI chatbots has benefits a
 # March 3rd, 2025
 | Name      | Power | Challenge |
 | ----------- | ----------- | ----------- |
-| Zara      | Green | 7 |
-| Aether   | Yellow | 5 |
-| Thorne      | Brown | 6 |
-| Silver   | Purple | 4 |
-| Tangier   | Red | 3 |
+| Zara      |  |  |
+| Aether   |  |  |
+| Thorne      |  |  |
+| Silver   |  |  |
+| Tangier   |  |  |
