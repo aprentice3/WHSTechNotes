@@ -60,8 +60,8 @@ Using slang translation tools in educational apps and AI chatbots has benefits a
 # March 3rd, 2025
 | Name      | Power | Challenge |
 | ----------- | ----------- | ----------- |
-| Zara      |  |  |
-| Aether   |  |  |
-| Thorne      |  |  |
-| Silver   |  |  |
-| Tangier   |  |  |
+| Zara      | Telekinesis | Secure Building |
+| Aether   | Weather Manipulation | Prevent Assassination |
+| Thorne      | Invisibility | Underwater Rescue |
+| Silver   | Mind Control | Retreive Stolen Goods |
+| Tangier   | Shapeshifting | Extract Prisoner |
