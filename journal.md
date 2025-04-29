@@ -79,3 +79,9 @@ Personally, I think the most useful feature of an AI tutor for me would be the a
 # April 14th, 2025
 I believe phone bans in schools can be more harmful than helpful because they may increase anxiety for many students. Phones are often a main source of communication with family, and not having access to them can make students feel isolated or worried, especially in emergencies. Some students rely on their phones for emotional support, whether it's through calming music, mental health apps, or simply knowing they can reach out if they need help. Taking that away can make school feel more stressful and overwhelming.
 If my school decided to ban phones, I think it would make me feel uneasy. I’d probably worry about not being able to check in with my parents or missing something important. Instead of helping me focus, the lack of access might actually distract me more because I’d be thinking about what I’m missing or if everything is okay outside of school. A better solution might be setting boundaries rather than a full ban, so students can feel safe and supported while still staying focused in class.
+# April 28th, 2025
+| Name      | Flavor    | Occasion       | Price  |
+| --------- | --------- |--------------- | ------ |
+| Sally     | Chocolate | Graduation     | $35.00 |
+| Micheal   | Vanilla   | Farewell Party | $37.00 |
+| Emma      | Carot     | Birthday       | $39.00 |
